@@ -1,2 +1,2 @@
 # dissertation-financial-management
-final yesr project for masters 
+final year project for masters 
